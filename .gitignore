@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+template/out/
+tests/_work/
+catalog/thumbs/
+bot/_work/
+stats.json
